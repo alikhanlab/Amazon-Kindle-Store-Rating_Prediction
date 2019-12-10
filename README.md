@@ -1,1 +1,1 @@
-# Amazon-Kindle-Store-Rating_Prediction
+# Amazon-Kindle-Store-Rating-Prediction
